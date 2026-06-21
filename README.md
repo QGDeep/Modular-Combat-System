@@ -5,14 +5,28 @@ A Modular Combat System developed in Unreal Engine 5
 - C++ code version for all components (In Progress).
 - C++ / BP hybrid version for all components (Planned).
 
-# Systems Included
-- Combat System that includes both simple and advanced hit detection systems, attack combos (ground and air).
-- Health and Damage System
-- Hit Stop Mechanic
-- Hit Shake Mechanic
-- Custom Animation Blueprint thats deals with every thing related to combat animations
+## Features 
+- Melee Attacks
+- Combo Chains (Ground and Air)
+- Haelth and Damage System
+- Hit Stop, and Hit Shake Mechanics
+- Cartoon and Hit Flash VFX
+- Custom Animation Blueprint to handle all animation and animation blending related to combat animations
 
+## Technologies 
+- Unreal Engine 5
+- C++
+- Blueprints
+- Gameplay Components
+- Event Systems
 
+## Design Goals
+- Resuable
+- Extensible
+- Designer-Friendly
+- Scalable
+
+## Demo Video
 
 https://github.com/user-attachments/assets/9aaadf2c-f292-45a5-b8d5-9f7f7f8d8e8a
 
