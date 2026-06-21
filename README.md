@@ -1,5 +1,4 @@
 # Modular-Combat-System
-A Modular Combat System developed in Unreal Engine 5
 
 - This project is fully modular and is designed to be easily integrated into any project. This system can also be extended based on a projects needs.
 - C++ code version for all components (In Progress).
